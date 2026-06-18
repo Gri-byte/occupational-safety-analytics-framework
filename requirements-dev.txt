@@ -7,4 +7,4 @@ black==24.4.2
 pylint==3.2.5
 
 # Security
-pip-audit==2.7.3
+pip-audit==2.10.1
